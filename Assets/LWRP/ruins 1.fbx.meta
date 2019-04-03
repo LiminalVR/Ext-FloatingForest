@@ -1,12 +1,11 @@
 fileFormatVersion: 2
-guid: e8a81a4eba796cb47a8a75513bd49781
+guid: 3ef240de90c624b4ca349b66596c30e6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: blinn6
-    2100002: blinn5
+    2100000: blinn5
     2300000: //RootNode
     3300000: //RootNode
     4300000: pPlane2
